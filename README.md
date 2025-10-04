@@ -20,5 +20,4 @@ Tools: Git, GitHub, VS Code
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVINEakisa&show_icons=true&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVINEakisa&layout=compact&theme=react)
-![Profile Views](https://komarev.com/ghpvc/?username=DIVINEakisa&color=blue)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIVINEakisa&theme=react)
