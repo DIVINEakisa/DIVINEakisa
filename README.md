@@ -2,9 +2,9 @@
 # Hello, I’m Divine Akisa 👋
 
 ## 🚀 About Me
-I’m a junior software developer who loves building web and mobile applications that are both functional and enjoyable to use. 
-I focus on writing clean, maintainable code while creating smooth, responsive, and interactive interfaces.
-I enjoy learning new technologies, tackling challenging problems, and collaborating with others to bring creative ideas to life.
+I’m a junior software developer who loves building web and mobile applications that are both functional and enjoyable to use. <br>
+I focus on writing clean, maintainable code while creating smooth, responsive, and interactive interfaces.<br>
+I enjoy learning new technologies, tackling challenging problems, and collaborating with others to bring creative ideas to life.<br>
   
   ## 🛠️ Tech Stack
 .Frontend: React.js, Tailwind CSS, JavaScript
