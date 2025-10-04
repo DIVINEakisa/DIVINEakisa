@@ -7,18 +7,18 @@ I focus on writing clean, maintainable code while creating smooth, responsive, a
 I enjoy learning new technologies, tackling challenging problems, and collaborating with others to bring creative ideas to life.<br>
   
   ## 🛠️ Tech Stack
-.Frontend: React.js, Tailwind CSS, JavaScript
-.Backend: Node.js, Express.js 
-.Database: PostgreSQL, MongoDB, SQL
-.Tools: Git, GitHub, VS Code
+.Frontend: React.js, Tailwind CSS, JavaScript<br>
+.Backend: Node.js, Express.js <br>
+.Database: PostgreSQL, MongoDB, SQL<br>
+.Tools: Git, GitHub, VS Code<br>
 
 
 ## 📚 Currently Learning
-.⚛️ Advanced React.js for dynamic UI development
-.🎨 Tailwind CSS for responsive and modular design
-.🔧 Node.js with Express for scalable backend APIs
-.🗄️ Database management and optimization (PostgreSQL & MongoDB)
+.⚛️ Advanced React.js for dynamic UI development<br>
+.🎨 Tailwind CSS for responsive and modular design<br>
+.🔧 Node.js with Express for scalable backend APIs<br>
+.🗄️ Database management and optimization (PostgreSQL & MongoDB)<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVINEakisa&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVINEakisa&layout=compact&theme=react)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIVINEakisa&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVINEakisa&show_icons=true&theme=react)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVINEakisa&layout=compact&theme=react)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIVINEakisa&theme=react)<br>
