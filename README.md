@@ -1,6 +1,5 @@
-#Hello, I’m Divine Akisa
 # 💫 About Me:
-I’m a junior software developer who loves building web and mobile applications that are both functional and enjoyable to use.<br>I focus on writing clean, maintainable code while creating smooth, responsive, and interactive interfaces.<br>I enjoy learning new technologies, tackling challenging problems, and collaborating with others to bring creative ideas to life.<br><br> ##Currently Learning<br>. Advanced React.js for dynamic UI development<br>. Tailwind CSS for responsive and modular design<br>. Node.js with Express for scalable backend APIs<br>. Database management and optimization (PostgreSQL)
+I’m a junior software developer who loves building web and mobile applications that are both functional and enjoyable to use.<br>I focus on writing clean, maintainable code while creating smooth, responsive, and interactive interfaces.<br>I enjoy learning new technologies, tackling challenging problems, and collaborating with others to bring creative ideas to life.<br><br> Currently Learning<br>. Advanced React.js for dynamic UI development<br>. Tailwind CSS for responsive and modular design<br>. Node.js with Express for scalable backend APIs<br>. Database management and optimization (PostgreSQL)
 
 
 ## 🌐 Socials:
